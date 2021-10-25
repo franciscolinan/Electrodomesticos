@@ -1,0 +1,7 @@
+C:\Users\Francisco\source\repos\Electrodomesticos\Electrodomesticos\obj\Debug\Electrodomesticos.csproj.AssemblyReference.cache
+C:\Users\Francisco\source\repos\Electrodomesticos\Electrodomesticos\obj\Debug\Electrodomesticos.csproj.CoreCompileInputs.cache
+C:\Users\Francisco\source\repos\Electrodomesticos\Electrodomesticos\bin\Debug\Electrodomesticos.exe.config
+C:\Users\Francisco\source\repos\Electrodomesticos\Electrodomesticos\bin\Debug\Electrodomesticos.exe
+C:\Users\Francisco\source\repos\Electrodomesticos\Electrodomesticos\bin\Debug\Electrodomesticos.pdb
+C:\Users\Francisco\source\repos\Electrodomesticos\Electrodomesticos\obj\Debug\Electrodomesticos.exe
+C:\Users\Francisco\source\repos\Electrodomesticos\Electrodomesticos\obj\Debug\Electrodomesticos.pdb
